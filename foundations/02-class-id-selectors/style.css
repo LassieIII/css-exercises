@@ -1,0 +1,27 @@
+/*Styling for all odd numbered elements*/
+.odd 
+{
+    background-color: pink;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+/*Second element styling*/
+#2 
+{
+    color: blue;
+    font-size: 24px;
+}
+
+/*Third element styling*/
+#3 
+{
+    font-size: 24px;
+}
+
+/*Fourth element styling*/
+#4 
+{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
