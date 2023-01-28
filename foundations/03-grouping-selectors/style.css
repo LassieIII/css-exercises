@@ -1,0 +1,20 @@
+/*Both Elements*/
+button 
+{
+    font-family: Helvetica, Times New Roman, sans-serif;
+    font-size: 28px;
+}
+
+/*Element 1*/
+.Black 
+{
+    background-color: black;
+    color: white;
+}
+
+/*Element 2*/
+.Yellow 
+{
+    background-color: yellow;
+    color: black;
+}
