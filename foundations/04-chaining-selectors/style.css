@@ -1,11 +1,11 @@
 /*Proportioned*/
-.avatar + .proportioned
+.avatar .proportioned
 {
-    height: 100%;
+    height: auto;
     width: 300px;
 }
 /*Distored*/
-.avatar + .distorted
+.avatar .distorted
 {
     height: 400px;
     width: 200px;
