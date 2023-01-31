@@ -4,10 +4,9 @@ body {
 }
 
 .card {
-  width: 400px;
+  width: auto;
   background: #fff;
   margin: auto;
-  margin-bottom: auto;
   padding: 10px;
 }
 
