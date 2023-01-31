@@ -19,6 +19,8 @@ body {
 
 .content {
   background: #e3f4ff;
+  margin: auto;
+  padding: 10px;
 }
 
 .button-container {
