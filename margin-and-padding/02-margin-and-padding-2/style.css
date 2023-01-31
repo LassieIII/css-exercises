@@ -4,7 +4,7 @@ body {
 }
 
 .card {
-  width: auto;
+  width: 400px;
   background: #fff;
   margin: auto;
   padding: 10px;
