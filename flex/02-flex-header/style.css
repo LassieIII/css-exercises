@@ -29,6 +29,8 @@ ul
 {
   display: flex;
   justify-content: space-between;
+  margin: auto;
+  padding: auto;
   /* this removes the dots on the list items*/
   list-style-type: none;
 }
