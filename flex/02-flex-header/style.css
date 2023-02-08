@@ -25,7 +25,10 @@
   justify-content: right;
 }
 
-ul {
+ul 
+{
+  display: flex;
+  justify-content: space-between;
   /* this removes the dots on the list items*/
   list-style-type: none;
 }
