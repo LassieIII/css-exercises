@@ -19,6 +19,12 @@
   justify-content: left;
 }
 
+.right-links
+{
+  display: flex;
+  justify-content: right;
+}
+
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
