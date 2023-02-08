@@ -1,6 +1,7 @@
 .header  {
   font-family: monospace;
   background: papayawhip;
+  padding: auto;
 }
 
 .logo {
@@ -21,7 +22,6 @@
 
 .right-links
 {
-  padding: auto;
   display: flex;
   justify-content: right;
 }
