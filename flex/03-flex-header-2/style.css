@@ -30,6 +30,9 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  display: flex;
+  justify-content: left;
+
 }
 
 button {
@@ -53,4 +56,5 @@ ul {
   padding: 0;
   gap: 8px;
   align-items: center;
+  justify-content: left;
 }
