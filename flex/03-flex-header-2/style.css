@@ -30,8 +30,10 @@ body {
   font-size: 32px;
   font-weight: 900;
   font-style: italic;
+  display: flex;
   margin: 8px;
   padding: 8px;
+  gap: 8px;
 }
 
 button {
