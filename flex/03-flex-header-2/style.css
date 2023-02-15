@@ -45,6 +45,7 @@ button {
   display: flex;
   align-items: center;
   justify-content: right;
+  gap: 16px;
 }
 
 a {
@@ -58,7 +59,7 @@ ul {
   display: flex;
   margin: 0;
   padding: 0;
-  gap: 8px;
+  gap: 16px;
   align-items: center;
   justify-content: left;
 }
