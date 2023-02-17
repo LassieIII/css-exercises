@@ -16,9 +16,10 @@ img
 }
 .text
 {
+  width: 11em;
+  overflow-wrap: normal;
   display: flex;
-  flex-direction: row;
-  align-items: bottom;
+  align-items: bottom center;
 }
 
 .header
