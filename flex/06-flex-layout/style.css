@@ -21,6 +21,9 @@ button
   border: none;
   border-radius: 8px;
   background: #eee;
+  font-size: 12px;
+  font-weight: bold;
+  padding: 8px 16px;
 }
 
 input 
@@ -58,4 +61,13 @@ a
 {
   background-color: #eeeeee;
   margin-top: auto;
+}
+
+.content
+{
+  flex: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
 }
