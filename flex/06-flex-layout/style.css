@@ -6,6 +6,8 @@ body
   margin: 0;
   overflow: hidden;
   font-family: Roboto, sans-serif;
+  display: flex;
+  flex-direction: column;
 }
 
 img 
@@ -33,4 +35,23 @@ input
 ul
 {
   list-style: none;
+}
+
+a
+{
+  color: #666;
+  text-decoration: none;
+}
+
+.header,.footer
+{
+  display: flex;
+  justify-content: space-between;
+  padding: 4px;
+}
+
+.footer
+{
+  background-color: #eeeeee;
+  margin-top: auto;
 }
