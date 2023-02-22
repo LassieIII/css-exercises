@@ -50,6 +50,7 @@ a
   background: royalblue;
   display: flex;
   flex-shrink: 0;
+  padding: 16px;
 }
 
 .card 
