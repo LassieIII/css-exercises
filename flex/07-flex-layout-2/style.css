@@ -7,6 +7,18 @@ body
   flex-direction: column;
 }
 
+ul
+{
+  font-size: 24px;
+  list-style-type: none;
+}
+
+a
+{
+  text-decoration: none;
+  color: white;
+}
+
 .header 
 {
   height: 72px;
