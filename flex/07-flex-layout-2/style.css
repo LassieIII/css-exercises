@@ -69,3 +69,9 @@ a
   display: flex;
   flex-wrap: wrap;
 }
+
+.body
+{
+  display: flex;
+  flex: 1;
+}
